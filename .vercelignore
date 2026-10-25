@@ -1,0 +1,5 @@
+.env*
+!.env.example
+dist
+.claude
+assets/.aistudio
